@@ -121,8 +121,8 @@ comments:
   giscus:
     repo: brandc87/brandc87.github.io
     repo_id: R_kgDOP3sXIQ
-    category: Announcements
-    category_id: DIC_kwDOP3sXIc4Cv8PY
+    category: Comments
+    category_id: DIC_kwDOP3sXIc4Cv8Sf
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
