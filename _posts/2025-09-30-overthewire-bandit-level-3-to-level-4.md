@@ -1,6 +1,6 @@
 ---
 title: 'OverTheWire: Bandit Level 3 to Level 4'
-date: 2025-09-30 06:35 +0100
+date: 2025-09-30 06:37 +0100
 description: "The bandit wargames are aimed at absolute beginners. It will teach the basics needed to be able to play other wargames."
 categories: [Security, OverTheWire]
 tags: [overthewire, bandit, ctf, security, linux]
