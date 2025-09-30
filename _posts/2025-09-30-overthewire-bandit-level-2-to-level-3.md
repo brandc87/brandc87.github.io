@@ -51,6 +51,7 @@ bandit2@bandit:~$ ls
 Similar to the previous level we can view the contents of `--spaces in this filename--` using the `cat` command along with redirection.
 
 **Note:** We can escape spaces in a filename using `\` or by enclosing the filename in `".."` (quotes) 
+
 **Note:** Filenames can also be auto-completed using the `Tab` key
 
 ```bash
